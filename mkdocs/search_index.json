@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Byte\n Forrest\n\n\n\n\nHello, Im Miguel Saavedra and I like to build games and the sort\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)\n\n\n\n\n\n\nDodgeyBalls\n\n\nGameplay Link\n\n\nButter Cat\n\n\nJust a simple dog", 
+            "text": "Byte\n Forrest\n\n\n\n\nHello, Im Miguel Saavedra and I like to build games and the sort\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)\n\n\n\n\n\n\nDodgeyBalls\n\n\nThe Second game I have built with\n\nGameplay Link\n\n\nButter Cat\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.  \n\n\nLink to source code", 
             "title": "Home"
         }, 
         {
@@ -12,12 +12,12 @@
         }, 
         {
             "location": "/#dodgeyballs", 
-            "text": "Gameplay Link", 
+            "text": "The Second game I have built with Gameplay Link", 
             "title": "DodgeyBalls"
         }, 
         {
             "location": "/#butter-cat", 
-            "text": "Just a simple dog", 
+            "text": "Just a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.    Link to source code", 
             "title": "Butter Cat"
         }
     ]
