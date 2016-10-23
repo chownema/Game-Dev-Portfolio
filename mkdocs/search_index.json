@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Byte\n Forrest\n\n\n\n\nHello, Im \nMiguel Saavedra\n and I like to build games and other stuff :D\n\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)\n\n\n\n\nSocial Portals\n\n\nFacebook\n\n\nGitHub\n\n\nLinkedin\n\n\n\n\n\n\n\n\nDodgeyBalls\n\n\n2016 - On Going\n\n\nThe Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;).    \n\n\nGame Play\n\n\n\n\n\n\nLink to source code\n\n\nButter Cat and Breakfast\n\n\n2016 - On Going\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code", 
+            "text": "Byte\n Forrest\n\n\n\n\nHello, Im \nMiguel Saavedra\n and I like to build \nGames\n and other stuff :D.\n\nI have recently finished my Batchellors of Computer Science, and currently am\nWorking on some other projects  \n\n\n\n\nSocial Portals\n\n\nFacebook\n\n\nGitHub\n\n\nLinkedin\n\n\n\n\n\n\n\n\nDodgeyBalls\n\n\n2016 - On Going\n\n\nThe Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;).    \n\n\nGame Play\n\n\n\n\n\n\nLink to source code\n\n\nButter Cat and Breakfast\n\n\n2016 - On Going\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code", 
             "title": "Home"
         }, 
         {
             "location": "/#byte-forrest", 
-            "text": "Hello, Im  Miguel Saavedra  and I like to build games and other stuff :D \nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)", 
+            "text": "Hello, Im  Miguel Saavedra  and I like to build  Games  and other stuff :D. \nI have recently finished my Batchellors of Computer Science, and currently am\nWorking on some other projects", 
             "title": "Byte Forrest"
         }, 
         {
@@ -47,13 +47,18 @@
         }, 
         {
             "location": "/Learning Resources/", 
-            "text": "Learning Resources\n\n\n\n\nHeres some resources that I found helpful when working on my Games\n\n\n\n\n\n\nKumar, K. (2013). Learning Physics Modelling with PhysX.  \n\n\nLuna, F. D. (2012). Introduction to 3D game programming with Directx 11. Dulles, \nVirginia: Mercury Learning and Information.\n\n\nMicrosoft. (n.d.). GitHub - Microsoft/DirectXTK: The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++. \nRetrieved from \nhttps://github.com/Microsoft/DirectXTK", 
+            "text": "Learning Resources\n\n\n\n\nHeres some resources that I found helpful when working on my Games\n\n\n\n\n\n\nKumar, K. (2013). Learning Physics Modelling with PhysX.  \n\n\nLuna, F. D. (2012). Introduction to 3D game programming with Directx 11. Dulles, \nVirginia: Mercury Learning and Information.\n\n\nMicrosoft. (n.d.). GitHub - Microsoft/DirectXTK: The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++. \nRetrieved from \nhttps://github.com/Microsoft/DirectXTK\n\n\n\n\nDocumentation\n\n\nAlthough Documentation can feel like unneeded extra work in creating a game, it is\na core component to successful game development. Here are some documents I have curated\nover my studies in Game Programming.  \n\n\nHere are some \nPitches\n \n| \nDesign Documents\n\n| \nPractice Projects in C++", 
             "title": "Learning Resources"
         }, 
         {
             "location": "/Learning Resources/#learning-resources", 
             "text": "Heres some resources that I found helpful when working on my Games    Kumar, K. (2013). Learning Physics Modelling with PhysX.    Luna, F. D. (2012). Introduction to 3D game programming with Directx 11. Dulles, \nVirginia: Mercury Learning and Information.  Microsoft. (n.d.). GitHub - Microsoft/DirectXTK: The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++. \nRetrieved from  https://github.com/Microsoft/DirectXTK", 
             "title": "Learning Resources"
+        }, 
+        {
+            "location": "/Learning Resources/#documentation", 
+            "text": "Although Documentation can feel like unneeded extra work in creating a game, it is\na core component to successful game development. Here are some documents I have curated\nover my studies in Game Programming.    Here are some  Pitches  \n|  Design Documents \n|  Practice Projects in C++", 
+            "title": "Documentation"
         }
     ]
 }
