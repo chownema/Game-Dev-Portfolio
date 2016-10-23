@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Byte\n Forrest\n\n\n\n\nHello, Im \nMiguel Saavedra\n and I like to build \nGames\n and other stuff :D.\n\nI have recently finished my Bachelors  of Computer Science, and currently am\nWorking on some other projects  \n\n\n\n\nSocial Portals\n\n\nFacebook\n\n\nGitHub\n\n\nLinkedin\n\n\n\n\n\n\n\n\nDodgeyBalls\n\n\n2016 - On Going\n\n\nThe Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;).  \n\nThe Games architecture was built around the MVC model where the controllers get passed\nthe Model Objects to read them and manipulate the data within them. This approach was quite\nhelpful when coming to use API's I was not familiar with.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code\n\n\nButter Cat and Breakfast\n\n\n2016 - On Going\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code", 
+            "text": "Byte\n Forrest\n\n\n\n\nHello, Im \nMiguel Saavedra\n and I like to build \ngames\n and other stuff :D\n\nI have recently finished my Bachelors of Computer Science, and currently am\nworking on some other exciting projects  \n\n\n\n\nSocial Portals\n\n\nFacebook\n\n\nGitHub\n\n\nLinkedin\n\n\n\n\n\n\n\n\nDodgeyBalls\n\n\n2016 - On Going\n\n\nThe Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;). The Games architecture was built \naround the MVC model where the controllers get passed the Model Objects to read them and \nmanipulate the data within them. This approach was quite helpful when coming to \nuse API's I was not familiar with. When going forward with this project I would look more \ndeeply into the API and refactor quite a lot of functionality that stops the games structure \nfrom being modular and parts which break encapsulation of classes.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code\n\n\nButter Cat and Breakfast\n\n\n2016 - On Going\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay. This first implementation the encapsulation and good coding\npractices were out the door, this peice of work definately needs refactoring to \nplug up the memory leaks and shuffling the logic of the code to where it makes more sense.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code", 
             "title": "Home"
         }, 
         {
             "location": "/#byte-forrest", 
-            "text": "Hello, Im  Miguel Saavedra  and I like to build  Games  and other stuff :D. \nI have recently finished my Bachelors  of Computer Science, and currently am\nWorking on some other projects", 
+            "text": "Hello, Im  Miguel Saavedra  and I like to build  games  and other stuff :D \nI have recently finished my Bachelors of Computer Science, and currently am\nworking on some other exciting projects", 
             "title": "Byte Forrest"
         }, 
         {
@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/#2016-on-going", 
-            "text": "The Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;).   \nThe Games architecture was built around the MVC model where the controllers get passed\nthe Model Objects to read them and manipulate the data within them. This approach was quite\nhelpful when coming to use API's I was not familiar with.", 
+            "text": "The Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;). The Games architecture was built \naround the MVC model where the controllers get passed the Model Objects to read them and \nmanipulate the data within them. This approach was quite helpful when coming to \nuse API's I was not familiar with. When going forward with this project I would look more \ndeeply into the API and refactor quite a lot of functionality that stops the games structure \nfrom being modular and parts which break encapsulation of classes.", 
             "title": "2016 - On Going"
         }, 
         {
@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/#2016-on-going_1", 
-            "text": "Just a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.", 
+            "text": "Just a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay. This first implementation the encapsulation and good coding\npractices were out the door, this peice of work definately needs refactoring to \nplug up the memory leaks and shuffling the logic of the code to where it makes more sense.", 
             "title": "2016 - On Going"
         }, 
         {
