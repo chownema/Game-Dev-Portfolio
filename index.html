@@ -12,9 +12,9 @@
 	<title>Byte Forrest</title>
 
         <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
-        <link href="./css/font-awesome-4.5.0.css" rel="stylesheet">
-        <link href="./css/base.css" rel="stylesheet">
+        <link href="./css/font-awesome-4.0.3.css" rel="stylesheet">
         <link rel="stylesheet" href="./css/highlight.css">
+        <link href="./css/base.css" rel="stylesheet">
 
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
@@ -25,14 +25,20 @@
         
     </head>
 
-    <body class="homepage">
+    <body>
 
         <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
 
         <!-- Collapsed navigation -->
         <div class="navbar-header">
-            
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
 
             <!-- Main title -->
             <a class="navbar-brand" href=".">Byte Forrest</a>
@@ -40,15 +46,34 @@
 
         <!-- Expanded navigation -->
         <div class="navbar-collapse collapse">
+            <!-- Main navigation -->
+            <ul class="nav navbar-nav">
             
+            
+                <li class="active">
+                    <a href=".">Home</a>
+                </li>
+            
+            
+            </ul>
 
+            <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
                 <li>
                     <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
                         <i class="fa fa-search"></i> Search
                     </a>
                 </li>
-                
+                <li class="disabled">
+                    <a rel="next" >
+                        <i class="fa fa-arrow-left"></i> Previous
+                    </a>
+                </li>
+                <li class="disabled">
+                    <a rel="prev" >
+                        Next <i class="fa fa-arrow-right"></i>
+                    </a>
+                </li>
                 
             </ul>
         </div>
@@ -56,46 +81,61 @@
 </div>
 
         <div class="container">
-            
-                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+            <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
     
         <li class="main active"><a href="#byte-forrest">Byte Forrest</a></li>
         
             <li><a href="#dodgeyballs">DodgeyBalls</a></li>
         
-            <li><a href="#butter-cat">Butter Cat</a></li>
+            <li><a href="#butter-cat-and-breakfast">Butter Cat and Breakfast</a></li>
         
     
     </ul>
 </div></div>
-                <div class="col-md-9" role="main">
+            <div class="col-md-9" role="main">
 
 <blockquote>
 <h1 id="byte-forrest"><strong>Byte</strong> Forrest</h1>
 <blockquote>
-<p>Hello, Im Miguel Saavedra and I like to build games and the sort
+<p>Hello, Im <strong>Miguel Saavedra</strong> and I like to build games and the sort
 I have recently finished my Batchellors of Computer Science and currently am
 Working towards other game projects
 Bellow I have some projects ;)</p>
+<blockquote>
+<p>Links <a href="https://github.com/chownema/GP-ASS-1-Release">Link to source code</a>
+Links <a href="https://github.com/chownema/GP-ASS-1-Release">GitHub</a>
+Links <a href="https://github.com/chownema/GP-ASS-1-Release">Linkedin</a></p>
+</blockquote>
 </blockquote>
 </blockquote>
 <h3 id="dodgeyballs">DodgeyBalls</h3>
-<p>The Second game I have built with
-<a href="https://www.youtube.com/watch?v=elQO_n4SkUw&amp;feature=youtu.be">Gameplay Link</a></p>
-<h3 id="butter-cat">Butter Cat</h3>
+<h5 id="2016-on-going">2016 - On Going</h5>
+<p>The Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.
+The game is a simple two player game where you play as boxes you shooting balls
+at each other while jumping and dodging each others balls ;).    </p>
+<h4 id="game-play">Game Play</h4>
+<p><iframe width="600" height="480" src="https://www.youtube.com/embed/elQO_n4SkUw" 
+frameborder="50" allowfullscreen>
+</iframe><br />
+<a href="https://github.com/chownema/GP-ASS-1-Release">Link to source code</a></p>
+<h3 id="butter-cat-and-breakfast">Butter Cat and Breakfast</h3>
+<h5 id="2016-on-going_1">2016 - On Going</h5>
 <p>Just a simple doging game with original hand drawn sprites.
 This was my first project using C++ and the SDL framework, other middle
 ware that was used was FMOD for the sounds and Rapid json to parse in
 Json data for the gameplay.  </p>
-<p><a href="https://github.com/chownema/GP-ASS-1-Release">Link to source code</a></p></div>
-            
+<h4 id="game-play_1">Game Play</h4>
+<p><iframe width="600" height="480" src="https://www.youtube.com/embed/5OFMOtmH8HQ"
+frameborder="0" allowfullscreen>
+</iframe><br />
+<a href="https://github.com/chownema/GP-ASS-1-Release">Link to source code</a></p></div>
         </div>
 
         <footer class="col-md-12">
             <hr>
             
-            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+            <center>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</center>
         </footer>
 
         <script src="./js/jquery-1.10.2.min.js"></script>
@@ -129,11 +169,5 @@ Json data for the gameplay.  </p>
                 </div>
             </div>
         </div>
-
     </body>
 </html>
-
-<!--
-MkDocs version : 0.15.3
-Build Date UTC : 2016-10-23 12:04:04.415000
--->

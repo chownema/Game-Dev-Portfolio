@@ -2,23 +2,43 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Byte\n Forrest\n\n\n\n\nHello, Im Miguel Saavedra and I like to build games and the sort\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)\n\n\n\n\n\n\nDodgeyBalls\n\n\nThe Second game I have built with\n\nGameplay Link\n\n\nButter Cat\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.  \n\n\nLink to source code", 
+            "text": "Byte\n Forrest\n\n\n\n\nHello, Im \nMiguel Saavedra\n and I like to build games and the sort\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)\n\n\n\n\nLinks \nLink to source code\n\nLinks \nGitHub\n\nLinks \nLinkedin\n\n\n\n\n\n\n\n\nDodgeyBalls\n\n\n2016 - On Going\n\n\nThe Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;).    \n\n\nGame Play\n\n\n\n\n\n\nLink to source code\n\n\nButter Cat and Breakfast\n\n\n2016 - On Going\n\n\nJust a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.  \n\n\nGame Play\n\n\n\n\n\n\nLink to source code", 
             "title": "Home"
         }, 
         {
             "location": "/#byte-forrest", 
-            "text": "Hello, Im Miguel Saavedra and I like to build games and the sort\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)", 
+            "text": "Hello, Im  Miguel Saavedra  and I like to build games and the sort\nI have recently finished my Batchellors of Computer Science and currently am\nWorking towards other game projects\nBellow I have some projects ;)   Links  Link to source code \nLinks  GitHub \nLinks  Linkedin", 
             "title": "Byte Forrest"
         }, 
         {
             "location": "/#dodgeyballs", 
-            "text": "The Second game I have built with Gameplay Link", 
+            "text": "", 
             "title": "DodgeyBalls"
         }, 
         {
-            "location": "/#butter-cat", 
-            "text": "Just a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.    Link to source code", 
-            "title": "Butter Cat"
+            "location": "/#2016-on-going", 
+            "text": "The Second game I have built with C++ using DirectX11, Physx 3.24 and FMOD.\nThe game is a simple two player game where you play as boxes you shooting balls\nat each other while jumping and dodging each others balls ;).", 
+            "title": "2016 - On Going"
+        }, 
+        {
+            "location": "/#game-play", 
+            "text": "Link to source code", 
+            "title": "Game Play"
+        }, 
+        {
+            "location": "/#butter-cat-and-breakfast", 
+            "text": "", 
+            "title": "Butter Cat and Breakfast"
+        }, 
+        {
+            "location": "/#2016-on-going_1", 
+            "text": "Just a simple doging game with original hand drawn sprites.\nThis was my first project using C++ and the SDL framework, other middle\nware that was used was FMOD for the sounds and Rapid json to parse in\nJson data for the gameplay.", 
+            "title": "2016 - On Going"
+        }, 
+        {
+            "location": "/#game-play_1", 
+            "text": "Link to source code", 
+            "title": "Game Play"
         }
     ]
 }
